@@ -1,0 +1,12 @@
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.LoggerService\bin\Debug\net5.0\INCLUB.Shopping.Product.LoggerService.deps.json
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.LoggerService\bin\Debug\net5.0\INCLUB.Shopping.Product.LoggerService.dll
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.LoggerService\bin\Debug\net5.0\INCLUB.Shopping.Product.LoggerService.pdb
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.LoggerService\obj\Debug\net5.0\INCLUB.Shopping.Product.LoggerService.csproj.AssemblyReference.cache
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.LoggerService\obj\Debug\net5.0\INCLUB.Shopping.Product.LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.LoggerService\obj\Debug\net5.0\INCLUB.Shopping.Product.LoggerService.AssemblyInfoInputs.cache
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.LoggerService\obj\Debug\net5.0\INCLUB.Shopping.Product.LoggerService.AssemblyInfo.cs
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.LoggerService\obj\Debug\net5.0\INCLUB.Shopping.Product.LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.LoggerService\obj\Debug\net5.0\INCLUB.Shopping.Product.LoggerService.dll
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.LoggerService\obj\Debug\net5.0\refint\INCLUB.Shopping.Product.LoggerService.dll
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.LoggerService\obj\Debug\net5.0\INCLUB.Shopping.Product.LoggerService.pdb
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.LoggerService\obj\Debug\net5.0\ref\INCLUB.Shopping.Product.LoggerService.dll

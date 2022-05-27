@@ -1,0 +1,12 @@
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Prioduct.Common\bin\Debug\net5.0\INCLUB.Shopping.Prioduct.Common.deps.json
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Prioduct.Common\bin\Debug\net5.0\INCLUB.Shopping.Prioduct.Common.dll
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Prioduct.Common\bin\Debug\net5.0\INCLUB.Shopping.Prioduct.Common.pdb
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Prioduct.Common\obj\Debug\net5.0\INCLUB.Shopping.Prioduct.Common.csproj.AssemblyReference.cache
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Prioduct.Common\obj\Debug\net5.0\INCLUB.Shopping.Prioduct.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Prioduct.Common\obj\Debug\net5.0\INCLUB.Shopping.Prioduct.Common.AssemblyInfoInputs.cache
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Prioduct.Common\obj\Debug\net5.0\INCLUB.Shopping.Prioduct.Common.AssemblyInfo.cs
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Prioduct.Common\obj\Debug\net5.0\INCLUB.Shopping.Prioduct.Common.csproj.CoreCompileInputs.cache
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Prioduct.Common\obj\Debug\net5.0\INCLUB.Shopping.Prioduct.Common.dll
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Prioduct.Common\obj\Debug\net5.0\refint\INCLUB.Shopping.Prioduct.Common.dll
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Prioduct.Common\obj\Debug\net5.0\INCLUB.Shopping.Prioduct.Common.pdb
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Prioduct.Common\obj\Debug\net5.0\ref\INCLUB.Shopping.Prioduct.Common.dll

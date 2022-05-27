@@ -1,0 +1,95 @@
+{
+  "Routes": [
+    {
+
+      "DownstreamPathTemplate": "/api/auth",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host":"app-security",
+          "Port":8080
+        }
+      ],
+      "UpstreamPathTemplate": "/api/token",
+      "UpstreamHttpMethod": [ "Post" ]
+    },
+
+    {    
+      "DownstreamPathTemplate": "/app-invoice/api/invoice",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host":"balancer-service-test",
+          "Port":9999
+        }
+      ],
+      "UpstreamPathTemplate": "/api/factura",
+      "UpstreamHttpMethod": [ "Get" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "SECURITY-TOKEN",
+        "AllowedScopes": []
+      }
+    },
+
+    {      
+      "DownstreamPathTemplate": "/app-notification/api/Notification",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host":"balancer-service-test",
+          "Port":9999
+        }
+      ],
+      "UpstreamPathTemplate": "/api/mail",
+      "UpstreamHttpMethod": [ "Get" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "SECURITY-TOKEN",
+        "AllowedScopes": []
+      }
+    },
+    {      
+      "DownstreamPathTemplate": "/app-pay/api/Transaction/Pay",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host":"balancer-service-test",
+          "Port":9999
+        }
+      ],
+      "UpstreamPathTemplate": "/api/pago",
+      "UpstreamHttpMethod": [ "Post" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "SECURITY-TOKEN",
+        "AllowedScopes": []
+      }
+    },
+    {
+      //"applicationUrl": "http://localhost:5005/api/History/1"
+      "DownstreamPathTemplate": "/app-transaction/api/History/{idinvoice}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host":"balancer-service-test",
+          "Port":9999
+        }
+      ],
+      "UpstreamPathTemplate":"/api/movimiento/{idinvoice}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey":"SECURITY-TOKEN",
+        "AllowedScopes": []
+      }
+    }    
+  ],
+
+  "GlobalConfiguration": {
+    "BaseUrl": "http://app-gateway:8080",
+    "RateLimitOptions": {
+      "ClientWhitelist": [],
+      "EnableRateLimiting": true,
+      "Period": "30s",
+      "PeriodTimespan": 1,
+      "Limit": 100
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "lLtxDaw4bnEdnvsj4V3X35WinKSBodX/2s9XH9kIBuoKbjZRmBY2E1+w343+iYiEcX5FezdlgTM3G3DQ+QDqOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Services\\INCLUB.Shopping.Product.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

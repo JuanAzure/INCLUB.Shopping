@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "INCLUB.Shopping.Product.Entities/1.0.0": {
+        "runtime": {
+          "INCLUB.Shopping.Product.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INCLUB.Shopping.Product.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

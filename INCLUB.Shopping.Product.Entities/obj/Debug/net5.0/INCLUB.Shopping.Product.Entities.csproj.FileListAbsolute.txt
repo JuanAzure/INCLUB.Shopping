@@ -1,0 +1,12 @@
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Entities\obj\Debug\net5.0\INCLUB.Shopping.Product.Entities.csproj.AssemblyReference.cache
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Entities\obj\Debug\net5.0\INCLUB.Shopping.Product.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Entities\obj\Debug\net5.0\INCLUB.Shopping.Product.Entities.AssemblyInfoInputs.cache
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Entities\obj\Debug\net5.0\INCLUB.Shopping.Product.Entities.AssemblyInfo.cs
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Entities\obj\Debug\net5.0\INCLUB.Shopping.Product.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Entities\bin\Debug\net5.0\INCLUB.Shopping.Product.Entities.deps.json
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Entities\bin\Debug\net5.0\INCLUB.Shopping.Product.Entities.dll
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Entities\bin\Debug\net5.0\INCLUB.Shopping.Product.Entities.pdb
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Entities\obj\Debug\net5.0\INCLUB.Shopping.Product.Entities.dll
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Entities\obj\Debug\net5.0\refint\INCLUB.Shopping.Product.Entities.dll
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Entities\obj\Debug\net5.0\INCLUB.Shopping.Product.Entities.pdb
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Entities\obj\Debug\net5.0\ref\INCLUB.Shopping.Product.Entities.dll

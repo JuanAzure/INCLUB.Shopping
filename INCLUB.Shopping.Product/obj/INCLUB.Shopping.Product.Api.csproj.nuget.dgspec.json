@@ -1,0 +1,399 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product\\INCLUB.Shopping.Product.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Prioduct.Common\\INCLUB.Shopping.Prioduct.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Prioduct.Common\\INCLUB.Shopping.Prioduct.Common.csproj",
+        "projectName": "INCLUB.Shopping.Prioduct.Common",
+        "projectPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Prioduct.Common\\INCLUB.Shopping.Prioduct.Common.csproj",
+        "packagesPath": "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Prioduct.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan Gutierrez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Contract\\INCLUB.Shopping.Product.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Contract\\INCLUB.Shopping.Product.Contract.csproj",
+        "projectName": "INCLUB.Shopping.Product.Contract",
+        "projectPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Contract\\INCLUB.Shopping.Product.Contract.csproj",
+        "packagesPath": "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan Gutierrez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Entities\\INCLUB.Shopping.Product.Entities.csproj": {
+                "projectPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Entities\\INCLUB.Shopping.Product.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Entities\\INCLUB.Shopping.Product.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Entities\\INCLUB.Shopping.Product.Entities.csproj",
+        "projectName": "INCLUB.Shopping.Product.Entities",
+        "projectPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Entities\\INCLUB.Shopping.Product.Entities.csproj",
+        "packagesPath": "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan Gutierrez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Repository\\INCLUB.Shopping.Product.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Repository\\INCLUB.Shopping.Product.Repository.csproj",
+        "projectName": "INCLUB.Shopping.Product.Repository",
+        "projectPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Repository\\INCLUB.Shopping.Product.Repository.csproj",
+        "packagesPath": "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan Gutierrez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Prioduct.Common\\INCLUB.Shopping.Prioduct.Common.csproj": {
+                "projectPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Prioduct.Common\\INCLUB.Shopping.Prioduct.Common.csproj"
+              },
+              "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Contract\\INCLUB.Shopping.Product.Contract.csproj": {
+                "projectPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Contract\\INCLUB.Shopping.Product.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Services\\INCLUB.Shopping.Product.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Services\\INCLUB.Shopping.Product.Services.csproj",
+        "projectName": "INCLUB.Shopping.Product.Services",
+        "projectPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Services\\INCLUB.Shopping.Product.Services.csproj",
+        "packagesPath": "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan Gutierrez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Prioduct.Common\\INCLUB.Shopping.Prioduct.Common.csproj": {
+                "projectPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Prioduct.Common\\INCLUB.Shopping.Prioduct.Common.csproj"
+              },
+              "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Contract\\INCLUB.Shopping.Product.Contract.csproj": {
+                "projectPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Contract\\INCLUB.Shopping.Product.Contract.csproj"
+              },
+              "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Entities\\INCLUB.Shopping.Product.Entities.csproj": {
+                "projectPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Entities\\INCLUB.Shopping.Product.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product\\INCLUB.Shopping.Product.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product\\INCLUB.Shopping.Product.Api.csproj",
+        "projectName": "INCLUB.Shopping.Product.Api",
+        "projectPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product\\INCLUB.Shopping.Product.Api.csproj",
+        "packagesPath": "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan Gutierrez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Contract\\INCLUB.Shopping.Product.Contract.csproj": {
+                "projectPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Contract\\INCLUB.Shopping.Product.Contract.csproj"
+              },
+              "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Entities\\INCLUB.Shopping.Product.Entities.csproj": {
+                "projectPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Entities\\INCLUB.Shopping.Product.Entities.csproj"
+              },
+              "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Repository\\INCLUB.Shopping.Product.Repository.csproj": {
+                "projectPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Repository\\INCLUB.Shopping.Product.Repository.csproj"
+              },
+              "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Services\\INCLUB.Shopping.Product.Services.csproj": {
+                "projectPath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping.Product.Services\\INCLUB.Shopping.Product.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

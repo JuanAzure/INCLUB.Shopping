@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EaAHhKMYfPIR0F/dWk2qQL2pFo7x36jrJS34oR0SzBO+VTCOf9/ABJGe+/HUbjO7QrNnFerc0GIWeeU4CWjo0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juan Gutierrez\\source\\repos\\INCLUB.Shopping\\INCLUB.Shopping\\INCLUB.Shopping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Juan Gutierrez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

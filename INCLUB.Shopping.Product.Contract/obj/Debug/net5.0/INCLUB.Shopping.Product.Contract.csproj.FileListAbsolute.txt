@@ -1,0 +1,15 @@
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Contract\obj\Debug\net5.0\INCLUB.Shopping.Product.Contract.csproj.AssemblyReference.cache
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Contract\obj\Debug\net5.0\INCLUB.Shopping.Product.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Contract\obj\Debug\net5.0\INCLUB.Shopping.Product.Contract.AssemblyInfoInputs.cache
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Contract\obj\Debug\net5.0\INCLUB.Shopping.Product.Contract.AssemblyInfo.cs
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Contract\obj\Debug\net5.0\INCLUB.Shopping.Product.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Contract\bin\Debug\net5.0\INCLUB.Shopping.Product.Contract.deps.json
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Contract\bin\Debug\net5.0\INCLUB.Shopping.Product.Contract.dll
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Contract\bin\Debug\net5.0\INCLUB.Shopping.Product.Contract.pdb
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Contract\bin\Debug\net5.0\INCLUB.Shopping.Product.Entities.dll
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Contract\bin\Debug\net5.0\INCLUB.Shopping.Product.Entities.pdb
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Contract\obj\Debug\net5.0\INCLUB.Shopping.Product.Contract.csproj.CopyComplete
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Contract\obj\Debug\net5.0\INCLUB.Shopping.Product.Contract.dll
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Contract\obj\Debug\net5.0\refint\INCLUB.Shopping.Product.Contract.dll
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Contract\obj\Debug\net5.0\INCLUB.Shopping.Product.Contract.pdb
+C:\Users\Juan Gutierrez\source\repos\INCLUB.Shopping\INCLUB.Shopping.Product.Contract\obj\Debug\net5.0\ref\INCLUB.Shopping.Product.Contract.dll
