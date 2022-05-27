@@ -37,6 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "INCLUB.Shopping.Prioduct.Co
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cross", "Cross", "{224EC087-1C86-4A4A-9D33-7B2DCE551962}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BD", "BD", "{BE8CAC9F-22BF-454B-8EEE-3F54D446D654}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Script_bd.sql = ..\..\..\Downloads\Script_bd.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
